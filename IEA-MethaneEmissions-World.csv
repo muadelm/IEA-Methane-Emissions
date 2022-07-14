@@ -1,0 +1,1634 @@
+Country,Emissions,Reason,Production source
+Philippines,10.36000001,Fugitive,Downstream gas
+Romania,10.68000023,Vented,Downstream gas
+Venezuela,38.11000061,Fugitive,Offshore gas
+Ivory Coast,0,Vented,Onshore conventional oil
+Argentina,0.269999994,Fugitive,Downstream oil
+Azerbaijan,0,Incomplete-flare,Onshore conventional gas
+Bahrain,0,Incomplete-flare,Offshore oil
+Qatar,0,Incomplete-flare,Unconventional gas
+Venezuela,32.75999832,Incomplete-flare,Unconventional oil
+Ecuador,0,Vented,Unconventional gas
+Iraq,2479.18997,Vented,Onshore conventional oil
+Bolivia,0,Fugitive,Offshore oil
+Italy,1.909999967,Fugitive,Onshore conventional gas
+United States,1575.389984,Fugitive,Unconventional gas
+Gabon,38.15999949,Vented,Offshore oil
+Saudi Arabia,0.679999985,Fugitive,Downstream oil
+Pakistan,0,Fugitive,Unconventional oil
+Italy,0.310000006,Fugitive,Downstream oil
+Brunei,0,Vented,Unconventional oil
+Cuba,0.079999998,Fugitive,Downstream oil
+Vietnam,0,Fugitive,Onshore conventional gas
+Chad,0,Vented,Offshore gas
+Yemen,0,Vented,Unconventional gas
+Bolivia,0.680000007,Incomplete-flare,Onshore conventional oil
+Egypt,0,Incomplete-flare,Offshore gas
+Bangladesh,108.579998,Fugitive,Downstream gas
+Germany,0.220000001,Fugitive,Onshore conventional oil
+Peru,18.1500001,Fugitive,Onshore conventional gas
+Malaysia,110.3200014,Vented,Offshore gas
+Algeria,289.3800049,Incomplete-flare,Onshore conventional oil
+Yemen,0.809999989,Vented,Downstream gas
+Japan,2.610000044,Fugitive,Onshore conventional gas
+Cameroon,0,Incomplete-flare,Unconventional oil
+Canada,0,Vented,Offshore oil
+Poland,0,Fugitive,Satellite-detected large emitters
+Kuwait,0.129999997,Fugitive,Offshore gas
+Egypt,0,Fugitive,Satellite-detected large emitters
+Vietnam,0.210000001,Fugitive,Downstream oil
+Mexico,20.12000084,Incomplete-flare,Onshore conventional oil
+Kazakhstan,334.940005,Vented,Onshore conventional oil
+Philippines,0,Vented,Onshore conventional gas
+Mexico,17.61999989,Fugitive,Onshore conventional gas
+Germany,0,Incomplete-flare,Offshore oil
+Saudi Arabia,52.28000021,Fugitive,Onshore conventional gas
+Uzbekistan,0,Fugitive,Unconventional gas
+ROETE,1.290000036,Fugitive,Onshore conventional oil
+Uzbekistan,0,Vented,Offshore oil
+OASEAN9,0,Fugitive,Satellite-detected large emitters
+Poland,0.069999998,Fugitive,Offshore oil
+Ecuador,1.929999992,Vented,Offshore gas
+Germany,0.469999995,Fugitive,Downstream oil
+Iran,601.5199916,Vented,Downstream gas
+Oman,0.32000001,Vented,Downstream oil
+Thailand,22.1500001,Fugitive,Offshore gas
+Australia,8.470000267,Incomplete-flare,Offshore oil
+Cameroon,0,Incomplete-flare,Offshore gas
+Ecuador,0,Incomplete-flare,Offshore oil
+Bahrain,28.47999954,Fugitive,Onshore conventional gas
+Denmark,0,Incomplete-flare,Onshore conventional gas
+Azerbaijan,0,Fugitive,Satellite-detected large emitters
+OEU17,0.079999998,Fugitive,Offshore oil
+Chad,0,Vented,Unconventional oil
+Ivory Coast,5.959999859,Fugitive,Downstream gas
+Argentina,13.27000046,Incomplete-flare,Onshore conventional oil
+Qatar,63.49999857,Fugitive,Downstream gas
+Malaysia,0,Incomplete-flare,Onshore conventional gas
+Libya,428.0399933,Fugitive,Downstream gas
+OASEAN9,48.48000098,Vented,Offshore gas
+Brunei,4.460000038,Incomplete-flare,Offshore oil
+Brazil,47.26999951,Vented,Offshore gas
+Australia,11.90999985,Incomplete-flare,Onshore conventional oil
+Japan,0.369999994,Vented,Offshore gas
+OASEAN9,0,Vented,Unconventional oil
+Malaysia,0.210000001,Fugitive,Downstream oil
+Algeria,0.310000006,Fugitive,Downstream oil
+OEU17,0.519999981,Incomplete-flare,Onshore conventional oil
+Venezuela,0,Incomplete-flare,Offshore gas
+Kazakhstan,18.21000064,Vented,Offshore gas
+Malaysia,0,Vented,Unconventional gas
+United Kingdom,0,Incomplete-flare,Unconventional gas
+Israel,0.33,Vented,Downstream oil
+Brunei,0,Incomplete-flare,Offshore gas
+Kazakhstan,0,Vented,Unconventional gas
+Norway,0,Fugitive,Unconventional oil
+United Kingdom,6.220000148,Fugitive,Offshore oil
+Denmark,0,Fugitive,Unconventional oil
+Bahrain,1.370000005,Incomplete-flare,Onshore conventional oil
+Sudan,0,Vented,Onshore conventional gas
+Cuba,2.679999977,Fugitive,Onshore conventional gas
+Libya,218.3600063,Vented,Onshore conventional gas
+Other,0,Fugitive,Unconventional oil
+Other,0,Incomplete-flare,Onshore conventional gas
+United Kingdom,0.790000021,Incomplete-flare,Onshore conventional oil
+United Kingdom,15.00999999,Fugitive,Offshore gas
+Netherlands,0,Incomplete-flare,Unconventional oil
+Netherlands,0.079999998,Fugitive,Downstream oil
+India,0,Incomplete-flare,Unconventional oil
+Ivory Coast,0.02,Fugitive,Downstream oil
+Denmark,0,Fugitive,Satellite-detected large emitters
+Kazakhstan,0.169999996,Fugitive,Downstream oil
+Pakistan,34.78000023,Vented,Onshore conventional oil
+Congo,0,Incomplete-flare,Unconventional gas
+Colombia,0,Incomplete-flare,Offshore gas
+ROETE,0,Fugitive,Unconventional oil
+OASEAN9,0,Fugitive,Unconventional oil
+Azerbaijan,0.309999989,Vented,Downstream oil
+France,0,Vented,Unconventional oil
+Indonesia,106.4000018,Vented,Offshore gas
+Pakistan,0,Fugitive,Offshore gas
+Ukraine,0,Incomplete-flare,Onshore conventional gas
+Congo,0.110000003,Vented,Downstream oil
+Egypt,0,Incomplete-flare,Unconventional oil
+Trinidad,3.340000011,Vented,Onshore conventional gas
+Ivory Coast,0,Fugitive,Unconventional gas
+Qatar,0,Fugitive,Unconventional gas
+Brazil,379.1800032,Vented,Offshore oil
+Saudi Arabia,0,Incomplete-flare,Onshore conventional gas
+New Zealand,3.779999942,Vented,Offshore gas
+Oman,58.33999978,Vented,Unconventional gas
+Romania,0,Incomplete-flare,Onshore conventional gas
+Yemen,0,Incomplete-flare,Onshore conventional gas
+Uzbekistan,31.38000006,Vented,Onshore conventional oil
+United Arab Emirates,0,Incomplete-flare,Onshore conventional gas
+Canada,1.109999996,Vented,Offshore gas
+Congo,0,Vented,Unconventional gas
+Egypt,132.8300019,Vented,Onshore conventional oil
+Thailand,0,Incomplete-flare,Onshore conventional gas
+Turkmenistan,0,Vented,Unconventional oil
+Equatorial Guinea,0,Fugitive,Downstream oil
+Mozambique,0,Vented,Offshore gas
+Ivory Coast,5.129999936,Vented,Offshore oil
+Iraq,0,Vented,Offshore oil
+Syria,24.34000015,Incomplete-flare,Onshore conventional oil
+Indonesia,30.1200006,Vented,Offshore oil
+Kuwait,0,Incomplete-flare,Unconventional gas
+Iraq,106.7999983,Fugitive,Downstream gas
+Norway,0,Incomplete-flare,Unconventional gas
+Japan,0.809999995,Fugitive,Downstream oil
+Ivory Coast,0,Incomplete-flare,Onshore conventional gas
+South Sudan,0,Fugitive,Downstream gas
+Azerbaijan,0.679999985,Fugitive,Onshore conventional oil
+Malaysia,0,Fugitive,Unconventional gas
+Nigeria,0,Incomplete-flare,Unconventional gas
+Argentina,0.170000002,Incomplete-flare,Offshore oil
+Kazakhstan,0,Fugitive,Unconventional gas
+OEU17,0,Vented,Unconventional oil
+United Kingdom,0,Fugitive,Satellite-detected large emitters
+Israel,0,Vented,Onshore conventional gas
+Brazil,0.929999992,Fugitive,Downstream oil
+Algeria,712.309994,Vented,Onshore conventional gas
+United Kingdom,0.180000002,Fugitive,Onshore conventional oil
+Cuba,0,Vented,Unconventional gas
+Australia,22.07000027,Vented,Downstream gas
+Gabon,2.050000027,Fugitive,Downstream gas
+France,0,Fugitive,Unconventional oil
+OEU17,0.48,Fugitive,Onshore conventional oil
+Cuba,8.189999972,Vented,Onshore conventional oil
+Saudi Arabia,0,Vented,Unconventional oil
+United Arab Emirates,0,Vented,Unconventional oil
+Argentina,62.55000078,Vented,Unconventional oil
+Brazil,22.53000069,Incomplete-flare,Offshore oil
+Romania,0,Fugitive,Unconventional oil
+Netherlands,0.920000002,Fugitive,Onshore conventional gas
+Ukraine,77.65000153,Fugitive,Downstream gas
+Canada,0,Incomplete-flare,Onshore conventional gas
+Canada,0.500000004,Fugitive,Downstream oil
+Peru,0,Vented,Unconventional gas
+Azerbaijan,8.769999981,Fugitive,Offshore oil
+OEU7,1.269999987,Vented,Onshore conventional gas
+Netherlands,0.219999995,Vented,Onshore conventional oil
+Nigeria,307.6100047,Vented,Offshore oil
+Equatorial Guinea,0,Vented,Onshore conventional gas
+Mexico,0,Incomplete-flare,Unconventional gas
+Mexico,151.5499992,Fugitive,Downstream gas
+Trinidad,19.9499998,Vented,Downstream gas
+Tunisia,2.209999919,Fugitive,Onshore conventional gas
+Bolivia,0,Fugitive,Unconventional oil
+Bolivia,0,Fugitive,Satellite-detected large emitters
+Israel,0,Incomplete-flare,Offshore oil
+Syria,0,Incomplete-flare,Offshore oil
+Algeria,7.310000062,Fugitive,Unconventional gas
+Peru,0.079999998,Vented,Offshore gas
+Cuba,0,Incomplete-flare,Onshore conventional gas
+Ecuador,0.269999994,Fugitive,Onshore conventional gas
+Australia,0.220000001,Fugitive,Downstream oil
+South Sudan,0,Vented,Unconventional oil
+Brunei,0.119999997,Fugitive,Onshore conventional oil
+Ecuador,22.64999962,Incomplete-flare,Onshore conventional oil
+Denmark,7.660000026,Vented,Offshore oil
+China,0,Incomplete-flare,Offshore gas
+Venezuela,0,Fugitive,Unconventional oil
+Israel,0,Fugitive,Satellite-detected large emitters
+Ukraine,34.17000008,Fugitive,Onshore conventional gas
+Congo,0,Incomplete-flare,Offshore gas
+Nigeria,84.89999962,Fugitive,Downstream gas
+Colombia,0,Vented,Unconventional oil
+Bolivia,0,Incomplete-flare,Offshore oil
+Libya,7.940000057,Vented,Downstream oil
+Indonesia,0.609999992,Fugitive,Downstream oil
+Other,0,Incomplete-flare,Offshore gas
+New Zealand,0.029999999,Fugitive,Downstream oil
+Canada,88.08000112,Vented,Unconventional oil
+Brazil,46.98999979,Vented,Onshore conventional oil
+Ecuador,0,Incomplete-flare,Offshore gas
+Nigeria,0,Incomplete-flare,Offshore gas
+Kazakhstan,0,Incomplete-flare,Unconventional oil
+Brunei,0,Fugitive,Satellite-detected large emitters
+Ecuador,164.2699983,Vented,Onshore conventional oil
+Peru,0.059999999,Fugitive,Downstream oil
+Chad,0,Fugitive,Unconventional oil
+United Kingdom,68.90000034,Vented,Offshore oil
+Syria,54.17000008,Fugitive,Downstream gas
+OEU7,0.430000013,Vented,Downstream oil
+Italy,54.4699994,Vented,Downstream gas
+Australia,56.30999947,Fugitive,Offshore gas
+Norway,0,Incomplete-flare,Offshore gas
+Vietnam,44.68000031,Vented,Offshore oil
+Malaysia,2.039999986,Vented,Onshore conventional oil
+Nigeria,0.279999996,Fugitive,Downstream oil
+Ukraine,42.87999909,Vented,Downstream gas
+Iran,540.7499949,Vented,Onshore conventional gas
+Japan,1.229999991,Vented,Onshore conventional oil
+Oman,113.3200016,Vented,Onshore conventional gas
+Sudan,0,Fugitive,Downstream gas
+Canada,0,Incomplete-flare,Unconventional gas
+Argentina,0,Incomplete-flare,Offshore gas
+Bahrain,24.73000073,Fugitive,Downstream gas
+Malaysia,70.84000015,Fugitive,Downstream gas
+United Kingdom,13.84000015,Incomplete-flare,Offshore oil
+Thailand,0,Fugitive,Unconventional oil
+United Arab Emirates,195.0499978,Vented,Offshore oil
+Mozambique,0,Vented,Onshore conventional oil
+Romania,0,Incomplete-flare,Unconventional gas
+Brunei,0.519999981,Incomplete-flare,Onshore conventional oil
+New Zealand,1.540000051,Fugitive,Onshore conventional gas
+Brunei,1.150000036,Fugitive,Offshore oil
+United States,2204.409991,Vented,Unconventional oil
+Brazil,5.210000098,Fugitive,Onshore conventional gas
+China,12.93000007,Fugitive,Offshore gas
+Ecuador,0,Incomplete-flare,Unconventional oil
+OASEAN9,0,Incomplete-flare,Offshore gas
+Tunisia,0,Incomplete-flare,Unconventional oil
+United Kingdom,0,Incomplete-flare,Offshore gas
+OEU7,0,Vented,Unconventional gas
+Philippines,1.030000009,Vented,Downstream oil
+Poland,0,Fugitive,Unconventional oil
+Venezuela,1.300000027,Fugitive,Downstream oil
+Israel,0,Incomplete-flare,Onshore conventional oil
+Venezuela,91.94000244,Incomplete-flare,Onshore conventional oil
+Equatorial Guinea,0,Fugitive,Onshore conventional gas
+Israel,5.759999985,Vented,Downstream gas
+United States,38.24000168,Incomplete-flare,Onshore conventional oil
+Other,4.75,Fugitive,Onshore conventional oil
+Turkmenistan,14.98999977,Incomplete-flare,Offshore oil
+Nigeria,111.9499969,Incomplete-flare,Onshore conventional oil
+United Kingdom,0.039999999,Fugitive,Unconventional gas
+Argentina,10.65999985,Incomplete-flare,Unconventional oil
+China,0.029999999,Incomplete-flare,Unconventional oil
+Iran,8.560000002,Vented,Downstream oil
+Denmark,0,Vented,Unconventional oil
+Yemen,0.669999991,Vented,Downstream oil
+Peru,18.85000023,Vented,Onshore conventional oil
+Indonesia,0.069999998,Fugitive,Unconventional gas
+Libya,1.329999998,Fugitive,Downstream oil
+Israel,0,Fugitive,Offshore oil
+Kuwait,0.390000012,Fugitive,Offshore oil
+Philippines,0,Vented,Unconventional gas
+Mexico,0,Vented,Unconventional oil
+Italy,0,Fugitive,Unconventional gas
+Brazil,1.879999995,Incomplete-flare,Onshore conventional oil
+Canada,0,Incomplete-flare,Offshore gas
+Ukraine,0.109999999,Fugitive,Downstream oil
+United Arab Emirates,0,Incomplete-flare,Unconventional gas
+Ukraine,0,Incomplete-flare,Unconventional gas
+New Zealand,0.829999998,Vented,Onshore conventional oil
+Turkmenistan,0,Incomplete-flare,Offshore gas
+Colombia,157.560002,Vented,Onshore conventional oil
+OASEAN9,0.419999987,Incomplete-flare,Offshore oil
+Peru,0,Fugitive,Unconventional gas
+Qatar,340.6,Vented,Offshore gas
+Venezuela,73.73000145,Fugitive,Onshore conventional oil
+Colombia,12.21000004,Incomplete-flare,Onshore conventional oil
+Canada,68.91999912,Fugitive,Onshore conventional gas
+Egypt,11.98999965,Fugitive,Onshore conventional oil
+Qatar,0,Incomplete-flare,Offshore gas
+Kazakhstan,5.96999979,Incomplete-flare,Offshore oil
+Libya,236.4399996,Vented,Downstream gas
+Brazil,0.01,Incomplete-flare,Unconventional oil
+Israel,0,Fugitive,Onshore conventional oil
+Congo,0,Fugitive,Satellite-detected large emitters
+Azerbaijan,0,Vented,Unconventional gas
+Italy,0,Vented,Unconventional oil
+ROETE,0.149999999,Fugitive,Unconventional gas
+New Zealand,0,Incomplete-flare,Onshore conventional gas
+Australia,5.849999964,Fugitive,Onshore conventional gas
+Australia,0,Incomplete-flare,Unconventional oil
+India,0,Vented,Unconventional oil
+Australia,39.93000126,Fugitive,Downstream gas
+Qatar,144.7899969,Vented,Offshore oil
+Kuwait,0,Incomplete-flare,Onshore conventional gas
+United Kingdom,2.069999965,Vented,Onshore conventional oil
+Venezuela,85.54000236,Vented,Offshore gas
+Congo,0,Incomplete-flare,Onshore conventional gas
+Angola,0,Incomplete-flare,Unconventional oil
+Peru,12.05000007,Fugitive,Downstream gas
+Poland,2.690000044,Vented,Unconventional gas
+Germany,1.440000013,Fugitive,Unconventional gas
+Pakistan,0.269999994,Fugitive,Downstream oil
+OEU17,0,Incomplete-flare,Unconventional gas
+Ecuador,0.119999997,Fugitive,Downstream oil
+Indonesia,40.77000093,Fugitive,Onshore conventional gas
+Cameroon,41.82999969,Vented,Offshore oil
+Kuwait,0,Fugitive,Unconventional oil
+Kuwait,0,Fugitive,Satellite-detected large emitters
+Congo,3.179999975,Vented,Onshore conventional gas
+Saudi Arabia,5.839999974,Fugitive,Unconventional gas
+Norway,0,Incomplete-flare,Onshore conventional gas
+Uzbekistan,166.3299961,Fugitive,Onshore conventional gas
+ROETE,0,Vented,Offshore gas
+Trinidad,36.11999989,Fugitive,Downstream gas
+Mozambique,0,Incomplete-flare,Onshore conventional gas
+Vietnam,0,Incomplete-flare,Unconventional oil
+OEU7,4.310000073,Vented,Downstream gas
+Denmark,0,Fugitive,Onshore conventional oil
+Ecuador,0,Vented,Offshore oil
+Uzbekistan,0,Fugitive,Offshore gas
+China,114.5300024,Vented,Offshore oil
+Iraq,0,Vented,Unconventional oil
+Japan,0,Fugitive,Unconventional gas
+Bolivia,1.739999995,Fugitive,Onshore conventional oil
+New Zealand,4.449999869,Fugitive,Downstream gas
+Iran,0,Incomplete-flare,Offshore gas
+United States,13.98999989,Fugitive,Offshore oil
+Algeria,317.3100128,Fugitive,Onshore conventional gas
+OASEAN9,0.109999999,Fugitive,Onshore conventional oil
+Brunei,0,Fugitive,Unconventional oil
+Italy,0,Incomplete-flare,Onshore conventional gas
+Libya,0,Vented,Unconventional gas
+Russia,1.830000013,Fugitive,Downstream oil
+Germany,2.429999949,Vented,Onshore conventional oil
+Brazil,0,Fugitive,Unconventional gas
+Syria,0,Vented,Offshore oil
+Gabon,0,Incomplete-flare,Unconventional oil
+Ecuador,0,Fugitive,Unconventional gas
+United States,135.6699991,Fugitive,Onshore conventional gas
+Indonesia,0,Incomplete-flare,Onshore conventional gas
+Canada,129.0300026,Fugitive,Downstream gas
+Syria,0,Incomplete-flare,Unconventional gas
+Chad,0,Fugitive,Downstream gas
+Brunei,8.350000143,Fugitive,Offshore gas
+Ukraine,1.019999988,Fugitive,Unconventional gas
+Saudi Arabia,916.7699998,Vented,Onshore conventional oil
+Peru,0,Incomplete-flare,Onshore conventional gas
+Kazakhstan,50.29999996,Vented,Offshore oil
+Bahrain,0,Fugitive,Unconventional gas
+Russia,1799.619995,Fugitive,Onshore conventional gas
+Pakistan,71.80000031,Vented,Downstream gas
+Nigeria,324.6200013,Vented,Onshore conventional oil
+United States,15.64999998,Fugitive,Offshore gas
+Pakistan,3.179999931,Vented,Unconventional gas
+Trinidad,0,Incomplete-flare,Unconventional oil
+Cameroon,0,Incomplete-flare,Unconventional gas
+Germany,0,Vented,Unconventional oil
+Russia,0,Fugitive,Offshore gas
+Algeria,0,Fugitive,Offshore gas
+Sudan,0,Fugitive,Unconventional oil
+Tunisia,3.370000035,Vented,Offshore oil
+Italy,98.60000229,Fugitive,Downstream gas
+Colombia,0,Fugitive,Unconventional oil
+China,29.02999962,Vented,Offshore gas
+Indonesia,155.5399999,Vented,Onshore conventional oil
+Algeria,234.4699955,Fugitive,Downstream gas
+Nigeria,123.7799988,Incomplete-flare,Offshore oil
+Egypt,6.350000024,Fugitive,Offshore oil
+Equatorial Guinea,18.75999975,Fugitive,Offshore gas
+Colombia,0,Incomplete-flare,Offshore oil
+United States,5.220000088,Fugitive,Downstream oil
+ROETE,0,Vented,Offshore oil
+Oman,0.059999999,Incomplete-flare,Offshore oil
+Angola,1.10999997,Fugitive,Onshore conventional oil
+Germany,85.67000103,Fugitive,Downstream gas
+Saudi Arabia,0,Incomplete-flare,Unconventional gas
+Norway,0.01,Fugitive,Onshore conventional oil
+China,0,Vented,Unconventional oil
+Bahrain,0,Incomplete-flare,Offshore gas
+Argentina,59.15999985,Fugitive,Unconventional gas
+Brazil,71.72999859,Fugitive,Downstream gas
+OEU7,0,Incomplete-flare,Offshore gas
+Libya,179.3899963,Vented,Offshore gas
+Yemen,2.180000005,Vented,Onshore conventional gas
+Nigeria,0,Vented,Unconventional oil
+Japan,109.0099983,Fugitive,Downstream gas
+Oman,0,Fugitive,Satellite-detected large emitters
+Poland,0.919999968,Vented,Downstream oil
+Ecuador,1.870000005,Fugitive,Downstream gas
+India,88.66000095,Vented,Downstream gas
+Ivory Coast,0,Fugitive,Onshore conventional gas
+Germany,0,Incomplete-flare,Unconventional oil
+Equatorial Guinea,18.64000034,Fugitive,Downstream gas
+Chad,51.37000029,Vented,Onshore conventional oil
+Egypt,0,Incomplete-flare,Onshore conventional gas
+Iraq,315.0700073,Incomplete-flare,Onshore conventional oil
+Uzbekistan,0,Fugitive,Offshore oil
+Malaysia,0,Fugitive,Onshore conventional gas
+Bahrain,0.01,Fugitive,Downstream oil
+Japan,0,Incomplete-flare,Onshore conventional gas
+Chad,0,Vented,Downstream oil
+Canada,0.500000004,Fugitive,Offshore gas
+Israel,0,Fugitive,Unconventional oil
+Qatar,0,Incomplete-flare,Onshore conventional gas
+Germany,2.05999995,Vented,Offshore oil
+Uzbekistan,0,Vented,Unconventional oil
+Mexico,269.3800051,Vented,Offshore oil
+Cuba,0,Vented,Offshore gas
+Congo,47.40999985,Incomplete-flare,Offshore oil
+Brunei,18.75000013,Vented,Offshore gas
+Libya,97.25999928,Fugitive,Onshore conventional gas
+Azerbaijan,15.47000012,Vented,Downstream gas
+Equatorial Guinea,6.760000169,Fugitive,Offshore oil
+China,371.1999974,Vented,Unconventional gas
+Philippines,0,Incomplete-flare,Unconventional oil
+Equatorial Guinea,0,Fugitive,Unconventional gas
+Netherlands,0.050000001,Incomplete-flare,Onshore conventional oil
+Equatorial Guinea,10.30000008,Vented,Downstream gas
+Nigeria,0,Incomplete-flare,Onshore conventional gas
+Cameroon,3.390000075,Fugitive,Downstream gas
+Argentina,20.07000042,Vented,Offshore gas
+Other,6.170000196,Fugitive,Offshore gas
+OASEAN9,1.329999994,Vented,Offshore oil
+Netherlands,0,Fugitive,Unconventional gas
+Norway,3.319999874,Fugitive,Offshore gas
+Oman,0,Incomplete-flare,Unconventional oil
+Kazakhstan,0,Incomplete-flare,Offshore gas
+ROETE,0,Vented,Unconventional oil
+Colombia,0,Fugitive,Satellite-detected large emitters
+Egypt,0,Fugitive,Unconventional oil
+Vietnam,24.00999964,Vented,Offshore gas
+Israel,0,Incomplete-flare,Unconventional gas
+Brunei,0,Incomplete-flare,Onshore conventional gas
+Poland,10.38000002,Vented,Onshore conventional gas
+India,0,Incomplete-flare,Offshore gas
+Azerbaijan,0.049999999,Fugitive,Downstream oil
+Norway,1.639999956,Fugitive,Offshore oil
+ROETE,0,Incomplete-flare,Unconventional gas
+Tunisia,0,Fugitive,Unconventional gas
+Canada,55.03999949,Fugitive,Onshore conventional oil
+China,10.34000003,Fugitive,Offshore oil
+Mexico,0,Incomplete-flare,Onshore conventional gas
+France,0,Vented,Offshore oil
+United Arab Emirates,93.30999947,Fugitive,Downstream gas
+Denmark,0.690000005,Fugitive,Offshore oil
+Brunei,1.29999998,Vented,Onshore conventional oil
+Ukraine,76.72000051,Vented,Onshore conventional gas
+Bolivia,0,Incomplete-flare,Unconventional gas
+Venezuela,0,Vented,Unconventional oil
+Ivory Coast,0.149999995,Vented,Downstream oil
+United Kingdom,33.70000018,Vented,Offshore gas
+France,0,Incomplete-flare,Unconventional oil
+Russia,15.78999984,Fugitive,Offshore oil
+South Sudan,0,Vented,Offshore oil
+Bolivia,0,Incomplete-flare,Offshore gas
+Iran,39.88999939,Incomplete-flare,Offshore oil
+Germany,0,Incomplete-flare,Onshore conventional oil
+Uzbekistan,2.830000073,Fugitive,Onshore conventional oil
+Russia,0.079999998,Fugitive,Unconventional gas
+Vietnam,0,Fugitive,Unconventional gas
+Chad,0,Incomplete-flare,Unconventional gas
+Gabon,0.01,Fugitive,Downstream oil
+Qatar,0.059999999,Fugitive,Downstream oil
+Norway,0,Fugitive,Satellite-detected large emitters
+Egypt,2.850000083,Vented,Downstream oil
+Argentina,0,Incomplete-flare,Unconventional gas
+Romania,31.35000081,Vented,Onshore conventional gas
+South Sudan,383.9600092,Vented,Onshore conventional oil
+South Sudan,0,Incomplete-flare,Unconventional oil
+United Arab Emirates,308.159998,Vented,Onshore conventional oil
+Uzbekistan,201.5599976,Fugitive,Downstream gas
+Bahrain,37.15000024,Vented,Onshore conventional oil
+Sudan,1.27,Vented,Downstream oil
+Trinidad,1.48999998,Fugitive,Onshore conventional gas
+Egypt,0,Incomplete-flare,Unconventional gas
+New Zealand,2.460000008,Vented,Downstream gas
+Other,11.72000027,Incomplete-flare,Onshore conventional oil
+OEU7,0,Fugitive,Unconventional oil
+Mexico,0,Incomplete-flare,Offshore gas
+South Sudan,0,Fugitive,Unconventional oil
+Bangladesh,0,Incomplete-flare,Unconventional oil
+United States,0,Incomplete-flare,Offshore gas
+Norway,0.189999998,Incomplete-flare,Onshore conventional oil
+Angola,2.190000003,Vented,Downstream gas
+Pakistan,0,Fugitive,Satellite-detected large emitters
+Syria,0,Vented,Unconventional oil
+Cuba,0.470000004,Vented,Downstream oil
+Israel,0,Incomplete-flare,Offshore gas
+Saudi Arabia,66.52000095,Vented,Offshore gas
+Turkmenistan,0,Incomplete-flare,Unconventional oil
+France,0,Fugitive,Offshore gas
+Russia,1476.390015,Fugitive,Satellite-detected large emitters
+Yemen,0.970000014,Fugitive,Onshore conventional gas
+Saudi Arabia,306.9200013,Vented,Offshore oil
+Bolivia,19.19999992,Vented,Onshore conventional oil
+Canada,609.7700119,Vented,Onshore conventional oil
+Libya,1027.11998,Vented,Onshore conventional oil
+Turkmenistan,80.30999948,Vented,Offshore oil
+United Kingdom,0,Vented,Unconventional oil
+China,0,Fugitive,Satellite-detected large emitters
+Bahrain,0,Incomplete-flare,Onshore conventional gas
+India,7.119999826,Fugitive,Onshore conventional oil
+Egypt,27.48999977,Incomplete-flare,Offshore oil
+Pakistan,1.62000002,Vented,Downstream oil
+OEU17,0.839999996,Fugitive,Downstream oil
+Poland,0.119999997,Fugitive,Offshore gas
+Australia,1.530000061,Fugitive,Onshore conventional oil
+Yemen,9.260000229,Incomplete-flare,Onshore conventional oil
+China,11.39999962,Incomplete-flare,Offshore oil
+Libya,0,Incomplete-flare,Onshore conventional gas
+Thailand,0.899999976,Fugitive,Onshore conventional oil
+Turkmenistan,9.639999837,Vented,Offshore gas
+Oman,0,Incomplete-flare,Offshore gas
+Canada,231.3799992,Fugitive,Unconventional gas
+Bolivia,0,Fugitive,Unconventional gas
+Canada,0,Fugitive,Offshore oil
+Egypt,62.78999949,Fugitive,Offshore gas
+China,0,Fugitive,Unconventional oil
+Thailand,0,Vented,Unconventional oil
+Japan,60.2099995,Vented,Downstream gas
+Indonesia,91.5299989,Vented,Onshore conventional gas
+Romania,0.229999999,Fugitive,Offshore oil
+Qatar,11.81000042,Incomplete-flare,Offshore oil
+Cuba,6.010000002,Vented,Onshore conventional gas
+Brunei,0,Fugitive,Downstream oil
+Denmark,0,Incomplete-flare,Onshore conventional oil
+Syria,0,Incomplete-flare,Unconventional oil
+Azerbaijan,27.91000009,Fugitive,Offshore gas
+Indonesia,92.19000244,Fugitive,Downstream gas
+Qatar,0,Vented,Unconventional oil
+Thailand,0,Fugitive,Satellite-detected large emitters
+Russia,0,Incomplete-flare,Onshore conventional gas
+Equatorial Guinea,0,Fugitive,Onshore conventional oil
+Ecuador,1.040000014,Vented,Downstream gas
+OASEAN9,0,Incomplete-flare,Unconventional oil
+OEU17,2.449999958,Fugitive,Offshore gas
+Thailand,3.219999969,Fugitive,Offshore oil
+Peru,40.76000032,Vented,Onshore conventional gas
+Gabon,0,Fugitive,Unconventional gas
+OEU17,5.479999959,Vented,Offshore gas
+Colombia,0,Vented,Offshore oil
+Netherlands,0.039999999,Incomplete-flare,Offshore oil
+Algeria,0,Fugitive,Offshore oil
+France,0,Fugitive,Offshore oil
+OEU17,0.939999994,Vented,Offshore oil
+Egypt,140.9500046,Vented,Offshore gas
+Equatorial Guinea,0,Incomplete-flare,Onshore conventional gas
+Colombia,7.26000008,Vented,Offshore gas
+Argentina,123.5600004,Fugitive,Downstream gas
+United Kingdom,0,Fugitive,Unconventional oil
+Bangladesh,0,Fugitive,Unconventional oil
+Colombia,0,Incomplete-flare,Onshore conventional gas
+Philippines,0,Fugitive,Unconventional oil
+Syria,30.55999994,Fugitive,Onshore conventional gas
+Pakistan,0,Incomplete-flare,Onshore conventional gas
+Ecuador,0.620000001,Vented,Onshore conventional gas
+Denmark,0.719999999,Fugitive,Offshore gas
+Algeria,129.5200003,Vented,Downstream gas
+OEU17,0,Incomplete-flare,Onshore conventional gas
+Bangladesh,2.759999979,Vented,Onshore conventional oil
+Mexico,1.939999983,Vented,Unconventional gas
+Germany,6.330000043,Fugitive,Onshore conventional gas
+India,15.53999996,Incomplete-flare,Offshore oil
+Mozambique,28.85999951,Vented,Onshore conventional gas
+Kazakhstan,0.989999987,Vented,Downstream oil
+OEU17,0.169999996,Fugitive,Unconventional gas
+Ecuador,0,Incomplete-flare,Unconventional gas
+Colombia,0,Fugitive,Offshore oil
+Brazil,11.69000006,Vented,Onshore conventional gas
+Kazakhstan,0,Vented,Unconventional oil
+Other,4.369999886,Fugitive,Offshore oil
+Peru,6.649999773,Vented,Downstream gas
+United States,1006.989989,Vented,Onshore conventional oil
+Uzbekistan,14.61999989,Incomplete-flare,Onshore conventional oil
+Nigeria,0,Fugitive,Unconventional gas
+Pakistan,0,Vented,Offshore gas
+Mozambique,1.780000029,Vented,Downstream gas
+Mozambique,0,Fugitive,Onshore conventional oil
+Azerbaijan,0,Fugitive,Unconventional gas
+Other,141.8799982,Vented,Downstream gas
+Australia,55.22999954,Fugitive,Unconventional gas
+China,43.88999939,Incomplete-flare,Onshore conventional oil
+Kazakhstan,44.82000017,Fugitive,Downstream gas
+Gabon,0.629999986,Vented,Offshore gas
+Denmark,0,Vented,Onshore conventional oil
+Vietnam,0,Vented,Unconventional oil
+Kazakhstan,0,Incomplete-flare,Unconventional gas
+United Kingdom,0,Incomplete-flare,Unconventional oil
+Norway,0.16,Vented,Downstream gas
+Ivory Coast,7.190000147,Vented,Offshore gas
+Gabon,23.31999969,Incomplete-flare,Offshore oil
+Kuwait,45.78999949,Fugitive,Onshore conventional oil
+Brunei,0,Fugitive,Unconventional gas
+Iraq,48.82999897,Fugitive,Onshore conventional gas
+Romania,0,Fugitive,Satellite-detected large emitters
+Argentina,4.999999925,Vented,Offshore oil
+Gabon,0,Vented,Unconventional oil
+Norway,0,Vented,Onshore conventional gas
+United States,0,Fugitive,Satellite-detected large emitters
+Bolivia,0,Vented,Offshore oil
+Nigeria,53.59999873,Vented,Offshore gas
+Other,44.09000064,Vented,Onshore conventional gas
+Mexico,36.04000069,Vented,Offshore gas
+India,6.019999802,Fugitive,Offshore oil
+Algeria,65.77000046,Fugitive,Onshore conventional oil
+Egypt,11.5699998,Vented,Unconventional gas
+Tunisia,0,Vented,Unconventional oil
+Sudan,0,Incomplete-flare,Unconventional gas
+Japan,5.850000087,Vented,Onshore conventional gas
+Canada,6.789999962,Incomplete-flare,Onshore conventional oil
+Pakistan,115.0699979,Vented,Onshore conventional gas
+Turkmenistan,11.85000038,Incomplete-flare,Onshore conventional oil
+Cameroon,0,Vented,Unconventional oil
+South Sudan,0,Incomplete-flare,Offshore oil
+Gabon,54.7200007,Vented,Onshore conventional oil
+Germany,0,Incomplete-flare,Offshore gas
+Australia,0,Incomplete-flare,Offshore gas
+Iraq,0,Incomplete-flare,Unconventional gas
+Bolivia,0,Vented,Unconventional oil
+Kazakhstan,63.48000002,Fugitive,Onshore conventional gas
+Uzbekistan,0,Incomplete-flare,Onshore conventional gas
+India,0,Fugitive,Satellite-detected large emitters
+Brazil,0,Vented,Unconventional gas
+Qatar,15.43999958,Incomplete-flare,Onshore conventional oil
+Gabon,0.690000005,Fugitive,Onshore conventional gas
+Ivory Coast,0,Vented,Unconventional gas
+South Sudan,0,Vented,Offshore gas
+Malaysia,1.209999979,Vented,Downstream oil
+Angola,0,Fugitive,Offshore gas
+Iran,0,Fugitive,Satellite-detected large emitters
+Azerbaijan,0.719999999,Fugitive,Onshore conventional gas
+Angola,0,Fugitive,Unconventional oil
+Egypt,83.56000116,Vented,Onshore conventional gas
+Argentina,35.67000103,Fugitive,Onshore conventional gas
+Chad,0,Vented,Unconventional gas
+Ecuador,0.699999973,Vented,Downstream oil
+Nigeria,79.12000084,Fugitive,Onshore conventional gas
+Russia,0,Vented,Unconventional oil
+OEU17,5.290000094,Vented,Onshore conventional oil
+Mozambique,0,Fugitive,Satellite-detected large emitters
+Japan,0,Vented,Unconventional gas
+Turkmenistan,910.6800079,Fugitive,Satellite-detected large emitters
+Venezuela,28.04999924,Incomplete-flare,Offshore oil
+Uzbekistan,0,Vented,Offshore gas
+Malaysia,0,Vented,Onshore conventional gas
+New Zealand,0,Vented,Unconventional gas
+France,0.190000003,Fugitive,Onshore conventional oil
+Yemen,1.459999993,Fugitive,Downstream gas
+Kuwait,0,Vented,Unconventional oil
+Sudan,0,Vented,Downstream gas
+Cuba,3.839999914,Fugitive,Downstream gas
+Iraq,0,Vented,Offshore gas
+Algeria,0,Incomplete-flare,Unconventional oil
+Venezuela,0,Fugitive,Unconventional gas
+Colombia,0,Incomplete-flare,Unconventional gas
+Bahrain,0,Vented,Offshore oil
+Other,0,Incomplete-flare,Unconventional gas
+Pakistan,1.420000032,Fugitive,Unconventional gas
+Pakistan,0,Fugitive,Offshore oil
+Mozambique,0,Fugitive,Offshore oil
+Tunisia,0.039999999,Fugitive,Downstream oil
+Angola,0,Vented,Unconventional oil
+Oman,27.88000005,Vented,Downstream gas
+Germany,0.059999999,Vented,Offshore gas
+Australia,0,Vented,Unconventional oil
+Mozambique,0.139999999,Vented,Downstream oil
+Angola,28.67999983,Fugitive,Offshore oil
+Angola,0,Fugitive,Satellite-detected large emitters
+Iran,209.3699951,Incomplete-flare,Onshore conventional oil
+Poland,0.220000001,Fugitive,Onshore conventional oil
+Yemen,0,Incomplete-flare,Unconventional gas
+Romania,0.799999997,Fugitive,Offshore gas
+Bangladesh,0,Vented,Offshore oil
+Venezuela,816.7199955,Vented,Onshore conventional oil
+Brunei,0,Incomplete-flare,Unconventional gas
+Brunei,12.76999998,Vented,Offshore oil
+Iran,33.48000002,Fugitive,Offshore oil
+Mexico,103.5299991,Vented,Onshore conventional oil
+Israel,0,Fugitive,Unconventional gas
+Saudi Arabia,105.749999,Fugitive,Downstream gas
+OASEAN9,0.25999999,Incomplete-flare,Onshore conventional oil
+ROETE,0,Fugitive,Offshore gas
+Venezuela,0,Fugitive,Satellite-detected large emitters
+OASEAN9,21.58999968,Fugitive,Offshore gas
+United Arab Emirates,0,Vented,Unconventional gas
+OASEAN9,0.119999997,Fugitive,Offshore oil
+United States,90.89999866,Fugitive,Onshore conventional oil
+Other,0,Fugitive,Satellite-detected large emitters
+OEU7,0,Fugitive,Satellite-detected large emitters
+Israel,0,Incomplete-flare,Onshore conventional gas
+Philippines,5.719999904,Vented,Downstream gas
+Netherlands,0.409999993,Vented,Offshore gas
+China,663.1499932,Vented,Onshore conventional oil
+Poland,15.24999999,Vented,Downstream gas
+Japan,4.879999876,Vented,Downstream oil
+Qatar,49.59000115,Vented,Onshore conventional oil
+Cameroon,36.54999924,Incomplete-flare,Offshore oil
+Bolivia,0,Incomplete-flare,Onshore conventional gas
+Brazil,5.570000052,Vented,Downstream oil
+Trinidad,0.09,Vented,Downstream oil
+Kuwait,4.250000045,Vented,Offshore oil
+Chad,0,Incomplete-flare,Onshore conventional gas
+Netherlands,0.129999999,Vented,Offshore oil
+New Zealand,3.489999952,Vented,Onshore conventional gas
+Netherlands,2.320000052,Fugitive,Downstream gas
+Bangladesh,0,Vented,Offshore gas
+India,0,Fugitive,Unconventional oil
+United States,12.19999981,Incomplete-flare,Offshore oil
+Malaysia,39.13999961,Vented,Downstream gas
+OEU7,0,Incomplete-flare,Offshore oil
+Bangladesh,0,Incomplete-flare,Offshore oil
+United States,35.13999964,Vented,Offshore gas
+OASEAN9,0.730000004,Fugitive,Downstream oil
+Mozambique,0,Fugitive,Offshore gas
+Cameroon,0,Incomplete-flare,Onshore conventional oil
+Bahrain,0,Vented,Offshore gas
+Brazil,0,Incomplete-flare,Offshore gas
+Congo,2.290000005,Vented,Downstream gas
+Congo,3.609999895,Incomplete-flare,Onshore conventional oil
+Iran,0,Fugitive,Unconventional oil
+Bahrain,0,Incomplete-flare,Unconventional gas
+Brazil,39.62000035,Vented,Downstream gas
+Algeria,0,Incomplete-flare,Offshore oil
+Ivory Coast,3.289999979,Vented,Downstream gas
+ROETE,0,Fugitive,Satellite-detected large emitters
+Oman,0,Fugitive,Unconventional oil
+India,25.34000015,Fugitive,Offshore gas
+China,59.86000061,Fugitive,Onshore conventional oil
+Sudan,0,Incomplete-flare,Onshore conventional gas
+Turkmenistan,0,Fugitive,Unconventional oil
+Indonesia,3.629999951,Vented,Downstream oil
+Qatar,0,Fugitive,Onshore conventional gas
+ROETE,0,Fugitive,Offshore oil
+Vietnam,23.68999958,Fugitive,Downstream gas
+Israel,5.529999852,Fugitive,Offshore gas
+Denmark,0,Incomplete-flare,Unconventional gas
+Peru,0.350000011,Vented,Downstream oil
+Philippines,2.140000105,Incomplete-flare,Offshore oil
+Germany,3.219999952,Vented,Unconventional gas
+Azerbaijan,1.609999975,Vented,Onshore conventional gas
+OASEAN9,1.240000011,Vented,Onshore conventional oil
+Netherlands,0,Vented,Unconventional oil
+Mozambique,0,Fugitive,Unconventional oil
+Bolivia,0.049999999,Fugitive,Downstream oil
+United Arab Emirates,30.72000004,Vented,Offshore gas
+OASEAN9,0,Fugitive,Unconventional gas
+Trinidad,0,Vented,Unconventional gas
+Venezuela,5.849999964,Fugitive,Offshore oil
+United States,154.9599996,Vented,Offshore oil
+Israel,0.059999999,Fugitive,Downstream oil
+Turkmenistan,102.6000007,Vented,Onshore conventional oil
+United States,3536.480031,Vented,Unconventional gas
+Ivory Coast,0,Vented,Onshore conventional gas
+OEU7,0,Incomplete-flare,Unconventional oil
+Russia,263.9500008,Fugitive,Onshore conventional oil
+Tunisia,17.15999961,Fugitive,Downstream gas
+Egypt,125.6800014,Vented,Downstream gas
+Brazil,0,Incomplete-flare,Unconventional gas
+Netherlands,0,Incomplete-flare,Offshore gas
+Bolivia,0,Fugitive,Offshore gas
+France,0,Fugitive,Satellite-detected large emitters
+Iraq,0,Incomplete-flare,Onshore conventional gas
+India,17.05999947,Incomplete-flare,Onshore conventional oil
+United Arab Emirates,1.180000007,Vented,Downstream oil
+OEU17,119.3399992,Fugitive,Downstream gas
+Bolivia,0,Vented,Offshore gas
+Bangladesh,0,Vented,Unconventional oil
+Venezuela,0,Incomplete-flare,Unconventional gas
+Algeria,0,Incomplete-flare,Offshore gas
+New Zealand,0.18,Vented,Downstream oil
+Germany,2.819999874,Vented,Downstream oil
+Chad,0,Vented,Offshore oil
+United States,182.1399994,Incomplete-flare,Unconventional oil
+Uzbekistan,0.039999999,Fugitive,Downstream oil
+Egypt,48.09999847,Incomplete-flare,Onshore conventional oil
+OEU17,2.310000062,Fugitive,Onshore conventional gas
+Kuwait,0,Fugitive,Unconventional gas
+Pakistan,3.140000045,Fugitive,Onshore conventional oil
+Iran,0,Incomplete-flare,Unconventional oil
+Denmark,1.610000014,Vented,Offshore gas
+Mozambique,0,Vented,Unconventional gas
+Uzbekistan,0,Incomplete-flare,Unconventional gas
+ROETE,0,Incomplete-flare,Onshore conventional gas
+Venezuela,64.80999781,Vented,Offshore oil
+Kazakhstan,24.18000031,Incomplete-flare,Onshore conventional oil
+Congo,0,Fugitive,Unconventional oil
+Cuba,2.12000001,Vented,Downstream gas
+Indonesia,0.169999998,Vented,Unconventional gas
+Bahrain,0,Vented,Unconventional oil
+Syria,0,Incomplete-flare,Offshore gas
+Philippines,0,Fugitive,Satellite-detected large emitters
+Norway,0,Fugitive,Onshore conventional gas
+Yemen,0,Fugitive,Unconventional oil
+New Zealand,0,Fugitive,Unconventional oil
+Bangladesh,0,Fugitive,Offshore oil
+Indonesia,0,Fugitive,Unconventional oil
+Brunei,5.090000153,Fugitive,Downstream gas
+Canada,2.930000037,Vented,Downstream oil
+Turkmenistan,7.250000119,Fugitive,Offshore oil
+Yemen,0,Vented,Offshore oil
+United Arab Emirates,0,Fugitive,Unconventional oil
+Bahrain,0,Fugitive,Satellite-detected large emitters
+United Arab Emirates,115.419999,Vented,Onshore conventional gas
+Gabon,1.130000018,Vented,Downstream gas
+OEU7,0,Fugitive,Offshore oil
+Japan,0,Incomplete-flare,Onshore conventional oil
+Italy,0,Fugitive,Unconventional oil
+ROETE,0.239999995,Incomplete-flare,Onshore conventional oil
+Romania,0,Fugitive,Unconventional gas
+India,56.89999964,Vented,Offshore gas
+Vietnam,0,Fugitive,Unconventional oil
+Russia,0,Incomplete-flare,Unconventional oil
+Thailand,0,Fugitive,Unconventional gas
+OEU7,0,Vented,Unconventional oil
+Peru,0,Fugitive,Unconventional oil
+Bolivia,18.43000031,Fugitive,Downstream gas
+Brazil,0,Incomplete-flare,Onshore conventional gas
+Poland,27.59999943,Fugitive,Downstream gas
+India,0,Incomplete-flare,Onshore conventional gas
+Bangladesh,0,Fugitive,Satellite-detected large emitters
+Syria,0,Fugitive,Offshore oil
+Qatar,4.47999984,Fugitive,Onshore conventional oil
+South Sudan,34.66999912,Fugitive,Onshore conventional oil
+Egypt,227.5200005,Fugitive,Downstream gas
+Iran,370.7899943,Vented,Offshore oil
+Indonesia,0,Incomplete-flare,Offshore gas
+United Kingdom,0.159999996,Vented,Onshore conventional gas
+Equatorial Guinea,2.329999924,Incomplete-flare,Onshore conventional oil
+Other,19.66000009,Fugitive,Onshore conventional gas
+Brunei,0.02,Vented,Downstream oil
+Ivory Coast,0,Incomplete-flare,Offshore gas
+Tunisia,0.240000002,Vented,Downstream oil
+Bolivia,44.19999886,Fugitive,Onshore conventional gas
+Israel,0,Fugitive,Onshore conventional gas
+Angola,0,Incomplete-flare,Offshore gas
+OEU7,0.25999999,Incomplete-flare,Onshore conventional oil
+South Sudan,0.430000016,Vented,Downstream oil
+Ecuador,0,Fugitive,Unconventional oil
+Ukraine,0,Fugitive,Satellite-detected large emitters
+Oman,0.059999999,Fugitive,Downstream oil
+Norway,0.01,Fugitive,Downstream oil
+Ukraine,0.15,Vented,Offshore oil
+United Kingdom,20.26999998,Fugitive,Downstream gas
+Equatorial Guinea,0,Vented,Unconventional oil
+Denmark,0,Vented,Unconventional gas
+China,0,Incomplete-flare,Unconventional gas
+Other,2.890000015,Fugitive,Downstream oil
+Cameroon,3.259999931,Fugitive,Offshore gas
+Brazil,0,Fugitive,Unconventional oil
+Germany,14.20000027,Vented,Onshore conventional gas
+Tunisia,0,Fugitive,Unconventional oil
+Equatorial Guinea,0,Incomplete-flare,Unconventional oil
+Libya,92.72999954,Fugitive,Onshore conventional oil
+Vietnam,1.219999969,Vented,Downstream oil
+Colombia,0,Fugitive,Unconventional gas
+Venezuela,0,Incomplete-flare,Onshore conventional gas
+Iran,0,Incomplete-flare,Unconventional gas
+Germany,0,Incomplete-flare,Unconventional gas
+Israel,10.4200002,Fugitive,Downstream gas
+Congo,0.01,Fugitive,Downstream oil
+Norway,7.450000048,Vented,Offshore gas
+Iraq,0,Incomplete-flare,Unconventional oil
+Libya,5.399999917,Fugitive,Offshore oil
+Tunisia,0,Incomplete-flare,Unconventional gas
+Nigeria,27.76999998,Fugitive,Offshore oil
+South Sudan,0,Incomplete-flare,Offshore gas
+Oman,25.99999952,Fugitive,Unconventional gas
+Bangladesh,0,Vented,Unconventional gas
+Saudi Arabia,4.03000012,Vented,Downstream oil
+United Arab Emirates,10.32999992,Incomplete-flare,Offshore oil
+Philippines,0,Incomplete-flare,Unconventional gas
+Brazil,21.0599997,Fugitive,Offshore gas
+Cameroon,0,Fugitive,Unconventional oil
+Indonesia,47.38999844,Fugitive,Offshore gas
+Mexico,0,Fugitive,Satellite-detected large emitters
+Cameroon,0,Vented,Onshore conventional oil
+India,9.809999824,Fugitive,Onshore conventional gas
+France,0,Incomplete-flare,Offshore gas
+Nigeria,0,Fugitive,Satellite-detected large emitters
+Mozambique,0.02,Fugitive,Downstream oil
+Congo,1.200000014,Vented,Offshore gas
+Uzbekistan,0,Incomplete-flare,Unconventional oil
+Philippines,4.140000105,Fugitive,Offshore gas
+Canada,519.3999999,Vented,Unconventional gas
+Philippines,0.75999999,Incomplete-flare,Onshore conventional oil
+Kuwait,0.299999997,Vented,Offshore gas
+France,0,Incomplete-flare,Offshore oil
+Egypt,37.23000097,Fugitive,Onshore conventional gas
+Iraq,0,Fugitive,Offshore oil
+Equatorial Guinea,74.89000154,Vented,Offshore oil
+Oman,0,Incomplete-flare,Onshore conventional gas
+Bolivia,99.21000105,Vented,Onshore conventional gas
+OASEAN9,0.600000001,Fugitive,Onshore conventional gas
+Uzbekistan,0,Vented,Unconventional gas
+Kuwait,0,Incomplete-flare,Offshore gas
+Russia,2923.839971,Vented,Onshore conventional oil
+Cuba,0,Fugitive,Offshore gas
+Italy,0.01,Incomplete-flare,Onshore conventional oil
+United Arab Emirates,13.68000019,Fugitive,Offshore gas
+Iraq,0,Fugitive,Offshore gas
+Japan,0,Fugitive,Unconventional oil
+Philippines,0.459999997,Fugitive,Offshore oil
+India,2.100000024,Fugitive,Downstream oil
+Indonesia,0,Incomplete-flare,Unconventional oil
+Kuwait,0.149999999,Fugitive,Downstream oil
+Turkmenistan,9.260000229,Fugitive,Onshore conventional oil
+Colombia,3.229999959,Fugitive,Offshore gas
+Russia,0,Incomplete-flare,Offshore gas
+Sudan,0.220000001,Fugitive,Downstream oil
+Poland,0,Incomplete-flare,Offshore gas
+Italy,10.61000019,Vented,Onshore conventional oil
+France,0.01,Fugitive,Onshore conventional gas
+Iran,342.6000023,Fugitive,Offshore gas
+Libya,0,Incomplete-flare,Offshore gas
+Peru,0,Fugitive,Satellite-detected large emitters
+South Sudan,0,Fugitive,Offshore oil
+Tunisia,11.67999995,Vented,Onshore conventional oil
+Qatar,13.07999992,Fugitive,Offshore oil
+Trinidad,1.590000033,Incomplete-flare,Onshore conventional oil
+Gabon,0,Incomplete-flare,Onshore conventional gas
+Denmark,0,Incomplete-flare,Unconventional oil
+Saudi Arabia,0,Incomplete-flare,Unconventional oil
+Qatar,35.07000011,Vented,Downstream gas
+Other,13.8300001,Vented,Offshore gas
+Algeria,0,Vented,Unconventional oil
+Kuwait,30.73000002,Fugitive,Onshore conventional gas
+Trinidad,0,Incomplete-flare,Unconventional gas
+Israel,0,Vented,Unconventional oil
+Sudan,0,Fugitive,Unconventional gas
+Oman,0.290000007,Vented,Offshore gas
+Australia,42.75999928,Vented,Offshore oil
+Bangladesh,0.39000001,Vented,Downstream oil
+New Zealand,0.579999983,Incomplete-flare,Onshore conventional oil
+Trinidad,0.850000016,Fugitive,Offshore oil
+Peru,2.00999999,Incomplete-flare,Onshore conventional oil
+Vietnam,0,Incomplete-flare,Unconventional gas
+Ukraine,0,Incomplete-flare,Unconventional oil
+Syria,0,Fugitive,Offshore gas
+Bahrain,0.09,Vented,Downstream oil
+Malaysia,0,Fugitive,Unconventional oil
+Venezuela,173.6899967,Fugitive,Onshore conventional gas
+Norway,0,Vented,Unconventional oil
+Tunisia,0,Fugitive,Satellite-detected large emitters
+OEU17,5.19000018,Vented,Onshore conventional gas
+Iraq,7.039999723,Fugitive,Satellite-detected large emitters
+Bahrain,0,Fugitive,Unconventional oil
+Kuwait,0,Vented,Unconventional gas
+Bahrain,63.94000049,Vented,Onshore conventional gas
+Colombia,27.18000016,Vented,Onshore conventional gas
+New Zealand,0,Vented,Unconventional oil
+Poland,1.189999998,Fugitive,Unconventional gas
+Mexico,24.30999923,Fugitive,Offshore oil
+Ukraine,3.100000024,Vented,Offshore gas
+Thailand,0,Incomplete-flare,Unconventional oil
+India,78.82000133,Vented,Onshore conventional oil
+Denmark,0,Fugitive,Onshore conventional gas
+Mozambique,0,Fugitive,Unconventional gas
+Mozambique,0,Incomplete-flare,Onshore conventional oil
+Nigeria,46.89999935,Vented,Downstream gas
+Syria,1.570000045,Vented,Downstream oil
+ROETE,14.30000021,Vented,Onshore conventional oil
+Angola,0.629999969,Vented,Downstream oil
+Azerbaijan,28.01000047,Fugitive,Downstream gas
+Australia,0,Incomplete-flare,Unconventional gas
+India,15.15,Vented,Unconventional gas
+Other,0,Vented,Unconventional oil
+Qatar,0,Fugitive,Satellite-detected large emitters
+Thailand,35.6600008,Vented,Offshore oil
+China,34.71000004,Vented,Downstream oil
+Pakistan,9.520000458,Incomplete-flare,Onshore conventional oil
+Libya,0,Fugitive,Satellite-detected large emitters
+Trinidad,36.64999962,Fugitive,Offshore gas
+Chad,0,Fugitive,Unconventional gas
+Romania,1.810000032,Vented,Offshore gas
+Italy,4.690000162,Vented,Offshore gas
+Iran,0,Fugitive,Unconventional gas
+Ivory Coast,3.199999988,Fugitive,Offshore gas
+Poland,0,Incomplete-flare,Unconventional oil
+Thailand,0.509999994,Fugitive,Downstream oil
+Yemen,0,Fugitive,Offshore gas
+Romania,2.499999963,Vented,Offshore oil
+Syria,80.82999965,Vented,Onshore conventional oil
+OEU7,0.249999994,Fugitive,Onshore conventional oil
+Nigeria,29.31000018,Fugitive,Onshore conventional oil
+Vietnam,0,Vented,Onshore conventional gas
+Oman,0.180000002,Vented,Offshore oil
+Azerbaijan,3.130000114,Incomplete-flare,Offshore oil
+Thailand,49.71000029,Vented,Offshore gas
+Netherlands,0,Incomplete-flare,Unconventional gas
+Chad,0,Vented,Onshore conventional gas
+Saudi Arabia,117.3399996,Vented,Onshore conventional gas
+Ivory Coast,0.459999997,Fugitive,Offshore oil
+Malaysia,49.13999987,Fugitive,Offshore gas
+Indonesia,50.92000082,Vented,Downstream gas
+New Zealand,0,Fugitive,Satellite-detected large emitters
+Philippines,0,Vented,Unconventional oil
+Bangladesh,0.300000012,Incomplete-flare,Onshore conventional oil
+Cuba,0,Incomplete-flare,Offshore gas
+Gabon,4.929999888,Fugitive,Onshore conventional oil
+Congo,0,Fugitive,Unconventional gas
+Libya,3.049999952,Incomplete-flare,Offshore oil
+ROETE,0.969999995,Vented,Downstream oil
+Angola,0,Incomplete-flare,Unconventional gas
+Bangladesh,0,Incomplete-flare,Unconventional gas
+Tunisia,0,Incomplete-flare,Onshore conventional gas
+Bolivia,0.299999999,Vented,Downstream oil
+Canada,0,Incomplete-flare,Offshore oil
+OEU17,0,Incomplete-flare,Offshore gas
+Malaysia,8.669999838,Fugitive,Offshore oil
+Angola,0,Incomplete-flare,Onshore conventional gas
+Oman,0.129999997,Fugitive,Offshore gas
+Cameroon,1.860000012,Vented,Downstream gas
+Cuba,0,Fugitive,Unconventional oil
+Sudan,0,Fugitive,Satellite-detected large emitters
+Italy,0.650000012,Vented,Offshore oil
+Germany,47.32999969,Vented,Downstream gas
+Vietnam,0,Vented,Unconventional gas
+Chad,0,Fugitive,Offshore gas
+Ecuador,0,Incomplete-flare,Onshore conventional gas
+Gabon,0,Vented,Unconventional gas
+Oman,50.49000025,Fugitive,Onshore conventional gas
+Iran,769.0700214,Vented,Offshore gas
+Trinidad,0,Fugitive,Unconventional gas
+OEU7,0,Incomplete-flare,Unconventional gas
+United Kingdom,0,Incomplete-flare,Onshore conventional gas
+Tunisia,0,Incomplete-flare,Offshore gas
+Malaysia,0,Fugitive,Satellite-detected large emitters
+Germany,0.02,Fugitive,Offshore gas
+OASEAN9,1.350000007,Vented,Onshore conventional gas
+Cameroon,0,Vented,Unconventional gas
+Chad,0,Fugitive,Onshore conventional gas
+Bolivia,0,Vented,Unconventional gas
+Azerbaijan,0,Incomplete-flare,Unconventional oil
+Algeria,1.860000052,Vented,Downstream oil
+Turkmenistan,0,Vented,Unconventional gas
+India,66.70000149,Vented,Offshore oil
+Japan,0,Incomplete-flare,Unconventional oil
+Australia,16.87999997,Vented,Onshore conventional oil
+Iraq,0,Fugitive,Unconventional gas
+Romania,0.710000008,Fugitive,Onshore conventional oil
+Libya,0,Incomplete-flare,Unconventional gas
+Germany,0.180000002,Fugitive,Offshore oil
+Norway,0,Incomplete-flare,Unconventional oil
+Congo,1.420000032,Fugitive,Onshore conventional gas
+Angola,71.33000183,Incomplete-flare,Offshore oil
+Chad,0,Fugitive,Downstream oil
+Cameroon,1.089999974,Fugitive,Onshore conventional gas
+Japan,0,Vented,Unconventional oil
+Vietnam,0,Fugitive,Onshore conventional oil
+Other,0,Incomplete-flare,Unconventional oil
+Algeria,88.92000198,Fugitive,Satellite-detected large emitters
+Italy,0.059999999,Fugitive,Offshore oil
+United Arab Emirates,51.53999975,Vented,Downstream gas
+Mozambique,0,Vented,Unconventional oil
+Trinidad,9.309999883,Vented,Offshore oil
+Oman,0,Vented,Unconventional oil
+Qatar,0,Fugitive,Unconventional oil
+France,41.89999866,Fugitive,Downstream gas
+Azerbaijan,0.379999995,Incomplete-flare,Onshore conventional oil
+Mexico,83.71999985,Vented,Downstream gas
+Ivory Coast,0,Fugitive,Unconventional oil
+Syria,29.93000004,Vented,Downstream gas
+Colombia,14.21999991,Fugitive,Onshore conventional oil
+Indonesia,8.079999924,Incomplete-flare,Offshore oil
+OASEAN9,0,Incomplete-flare,Unconventional gas
+Canada,154.6999998,Vented,Onshore conventional gas
+Sudan,0,Vented,Unconventional oil
+Libya,0,Fugitive,Unconventional gas
+Peru,0,Vented,Unconventional oil
+ROETE,31.04999973,Vented,Downstream gas
+Turkmenistan,2.129999951,Vented,Downstream oil
+OEU17,65.92999914,Vented,Downstream gas
+Thailand,2.259999931,Fugitive,Onshore conventional gas
+Angola,0,Vented,Offshore gas
+Chad,6.130000114,Incomplete-flare,Onshore conventional oil
+Kazakhstan,24.76000036,Vented,Downstream gas
+United Kingdom,0.169999996,Fugitive,Downstream oil
+France,0.01,Fugitive,Unconventional gas
+Angola,0.1,Fugitive,Downstream oil
+Thailand,4.650000095,Incomplete-flare,Onshore conventional oil
+Trinidad,0,Incomplete-flare,Offshore gas
+France,2.150000045,Vented,Onshore conventional oil
+Equatorial Guinea,0,Fugitive,Satellite-detected large emitters
+Sudan,0,Fugitive,Offshore oil
+Trinidad,3.029999971,Incomplete-flare,Offshore oil
+Sudan,0,Fugitive,Offshore gas
+Japan,0,Fugitive,Satellite-detected large emitters
+Tunisia,0,Vented,Unconventional gas
+OEU17,0.350000001,Vented,Unconventional gas
+Nigeria,0,Incomplete-flare,Unconventional oil
+Mozambique,0,Incomplete-flare,Unconventional oil
+Poland,4.630000114,Fugitive,Onshore conventional gas
+United States,1448.179993,Fugitive,Downstream gas
+Norway,0.09,Vented,Downstream oil
+Argentina,0,Incomplete-flare,Onshore conventional gas
+Japan,0,Incomplete-flare,Offshore gas
+Israel,0,Vented,Offshore oil
+Argentina,117.869997,Vented,Onshore conventional oil
+Malaysia,6.670000076,Incomplete-flare,Onshore conventional oil
+Mexico,39.55999923,Vented,Onshore conventional gas
+Other,17.23999977,Vented,Downstream oil
+Mexico,0,Fugitive,Unconventional oil
+Germany,0,Fugitive,Satellite-detected large emitters
+United Kingdom,11.19999997,Vented,Downstream gas
+China,387.8900011,Vented,Downstream gas
+Italy,0,Incomplete-flare,Offshore gas
+Turkmenistan,1558.389987,Vented,Onshore conventional gas
+Trinidad,0,Fugitive,Satellite-detected large emitters
+Algeria,728.4900009,Vented,Onshore conventional oil
+Ukraine,2.29000001,Vented,Unconventional gas
+Japan,0,Incomplete-flare,Offshore oil
+Germany,0,Incomplete-flare,Onshore conventional gas
+China,5.800000012,Fugitive,Downstream oil
+Malaysia,51.68999863,Incomplete-flare,Offshore oil
+Cuba,0,Fugitive,Satellite-detected large emitters
+New Zealand,0,Incomplete-flare,Unconventional oil
+Tunisia,9.480000015,Vented,Downstream gas
+Kuwait,0,Incomplete-flare,Unconventional oil
+Peru,0,Incomplete-flare,Unconventional oil
+Gabon,0,Incomplete-flare,Offshore gas
+Libya,59.86999966,Vented,Offshore oil
+Peru,0,Incomplete-flare,Offshore gas
+Thailand,3.269999981,Incomplete-flare,Offshore oil
+Bangladesh,0.249999994,Fugitive,Onshore conventional oil
+Syria,0.259999996,Fugitive,Downstream oil
+Syria,0,Vented,Unconventional gas
+Poland,0,Incomplete-flare,Onshore conventional gas
+Australia,0,Fugitive,Satellite-detected large emitters
+Qatar,0,Vented,Unconventional gas
+United Arab Emirates,0.190000003,Fugitive,Downstream oil
+Yemen,0.109999999,Fugitive,Downstream oil
+OASEAN9,0,Vented,Unconventional gas
+Philippines,0,Fugitive,Onshore conventional oil
+Oman,50.44999933,Fugitive,Downstream gas
+Poland,0.270000003,Vented,Offshore gas
+Thailand,9.910000142,Vented,Onshore conventional oil
+Canada,0,Fugitive,Satellite-detected large emitters
+Uzbekistan,0,Fugitive,Unconventional oil
+Romania,0,Vented,Unconventional gas
+Venezuela,0,Vented,Unconventional gas
+Yemen,0,Fugitive,Unconventional gas
+Italy,0,Incomplete-flare,Unconventional oil
+Angola,39.55999923,Vented,Onshore conventional gas
+Kazakhstan,142.4999993,Vented,Onshore conventional gas
+South Sudan,0,Fugitive,Satellite-detected large emitters
+China,372.2300029,Vented,Onshore conventional gas
+India,6.740000188,Fugitive,Unconventional gas
+Cameroon,0.02,Fugitive,Downstream oil
+Italy,0,Fugitive,Satellite-detected large emitters
+Syria,0,Vented,Offshore gas
+Mozambique,0,Incomplete-flare,Offshore oil
+France,0,Vented,Offshore gas
+OASEAN9,4.330000073,Vented,Downstream oil
+Cuba,0,Incomplete-flare,Unconventional oil
+New Zealand,0.239999996,Fugitive,Offshore oil
+Congo,0,Vented,Unconventional oil
+France,0.320000004,Fugitive,Downstream oil
+Mozambique,0,Incomplete-flare,Offshore gas
+Mexico,3.949999928,Vented,Downstream oil
+OEU17,4.990000039,Vented,Downstream oil
+Russia,0,Incomplete-flare,Unconventional gas
+Peru,0.25,Incomplete-flare,Offshore oil
+Chad,0,Fugitive,Offshore oil
+Egypt,5.160000145,Fugitive,Unconventional gas
+Venezuela,7.789999902,Vented,Downstream oil
+Congo,0.529999997,Fugitive,Offshore gas
+Pakistan,0,Incomplete-flare,Unconventional gas
+Vietnam,13.09,Vented,Downstream gas
+Iran,0,Vented,Unconventional oil
+Yemen,0,Vented,Offshore gas
+Tunisia,4.969999894,Vented,Offshore gas
+Brunei,0.190000003,Fugitive,Onshore conventional gas
+Mexico,9.350000143,Fugitive,Onshore conventional oil
+Australia,3.860000074,Fugitive,Offshore oil
+Kazakhstan,0,Incomplete-flare,Onshore conventional gas
+Vietnam,15.98999977,Incomplete-flare,Offshore oil
+Malaysia,0,Incomplete-flare,Unconventional oil
+Italy,0,Incomplete-flare,Offshore oil
+ROETE,0.299999995,Vented,Unconventional gas
+Kuwait,507.1399984,Vented,Onshore conventional oil
+United States,199.0100021,Fugitive,Unconventional oil
+Yemen,0,Incomplete-flare,Offshore oil
+France,0.079999998,Incomplete-flare,Onshore conventional oil
+Equatorial Guinea,0,Vented,Onshore conventional oil
+Sudan,10.30000019,Incomplete-flare,Onshore conventional oil
+Denmark,0,Vented,Onshore conventional gas
+Vietnam,0,Incomplete-flare,Offshore gas
+Tunisia,1.059999995,Fugitive,Onshore conventional oil
+Russia,1006.500007,Vented,Downstream gas
+China,0,Incomplete-flare,Onshore conventional gas
+Pakistan,0,Incomplete-flare,Unconventional oil
+Colombia,0,Incomplete-flare,Unconventional oil
+Congo,4.150000095,Fugitive,Downstream gas
+United Arab Emirates,51.42000103,Fugitive,Onshore conventional gas
+China,165.3600006,Fugitive,Unconventional gas
+Kuwait,45.87000036,Fugitive,Downstream gas
+Tunisia,2.309999943,Incomplete-flare,Offshore oil
+India,0,Incomplete-flare,Unconventional gas
+Qatar,0.339999991,Vented,Downstream oil
+Trinidad,7.059999861,Vented,Onshore conventional oil
+Sudan,0,Fugitive,Onshore conventional gas
+South Sudan,0,Incomplete-flare,Onshore conventional oil
+South Sudan,0,Fugitive,Offshore gas
+United States,304.5699949,Vented,Onshore conventional gas
+New Zealand,0,Incomplete-flare,Offshore gas
+New Zealand,0.560000002,Incomplete-flare,Offshore oil
+Bahrain,0,Fugitive,Offshore oil
+Ecuador,0,Vented,Unconventional oil
+Iran,83.59000015,Fugitive,Onshore conventional oil
+Pakistan,0,Vented,Offshore oil
+Romania,0.440000003,Vented,Downstream oil
+Turkmenistan,0,Incomplete-flare,Unconventional gas
+United Arab Emirates,10.34000015,Incomplete-flare,Onshore conventional oil
+Ivory Coast,0,Incomplete-flare,Unconventional oil
+Syria,0,Fugitive,Unconventional gas
+Cameroon,0.16,Vented,Downstream oil
+Russia,174.8399978,Vented,Offshore oil
+India,22.03000063,Vented,Onshore conventional gas
+United States,0,Incomplete-flare,Unconventional gas
+Philippines,9.299999654,Vented,Offshore gas
+Cameroon,0,Fugitive,Unconventional gas
+ROETE,2.179999998,Vented,Onshore conventional gas
+Malaysia,0,Vented,Unconventional oil
+Brunei,0,Incomplete-flare,Unconventional oil
+Chad,0,Incomplete-flare,Offshore gas
+Vietnam,10.70000017,Fugitive,Offshore gas
+Trinidad,0,Fugitive,Unconventional oil
+Iraq,4.469999999,Vented,Downstream oil
+China,702.2100067,Fugitive,Downstream gas
+Denmark,1.039999962,Incomplete-flare,Offshore oil
+Brazil,34.23000097,Fugitive,Offshore oil
+Ecuador,0.850000016,Fugitive,Offshore gas
+Ivory Coast,0,Incomplete-flare,Onshore conventional oil
+Algeria,0,Incomplete-flare,Unconventional gas
+Russia,0.169999998,Vented,Unconventional gas
+India,160.4999981,Fugitive,Downstream gas
+Yemen,0,Incomplete-flare,Unconventional oil
+United Arab Emirates,0,Incomplete-flare,Unconventional oil
+Syria,68.58999923,Vented,Onshore conventional gas
+Angola,12.27000029,Vented,Onshore conventional oil
+Azerbaijan,97.11000324,Vented,Offshore oil
+Colombia,22.8099997,Fugitive,Downstream gas
+Netherlands,0,Vented,Unconventional gas
+Argentina,10.64000022,Fugitive,Onshore conventional oil
+India,12.53000039,Vented,Downstream oil
+New Zealand,1.690000042,Fugitive,Offshore gas
+Mozambique,3.219999969,Fugitive,Downstream gas
+Canada,7.190000057,Incomplete-flare,Unconventional oil
+Peru,0.039999999,Fugitive,Offshore gas
+Trinidad,0,Vented,Unconventional oil
+OASEAN9,27.42,Vented,Downstream gas
+Bangladesh,59.9800002,Vented,Downstream gas
+Sudan,50.08999817,Vented,Onshore conventional oil
+Brazil,0,Vented,Unconventional oil
+Uzbekistan,0,Incomplete-flare,Offshore oil
+Cuba,0.739999995,Fugitive,Onshore conventional oil
+Uzbekistan,0,Fugitive,Satellite-detected large emitters
+United Arab Emirates,0,Fugitive,Unconventional gas
+Oman,23.51000071,Fugitive,Onshore conventional oil
+Trinidad,0.01,Fugitive,Downstream oil
+OEU17,0,Fugitive,Unconventional oil
+Japan,0.01,Fugitive,Offshore oil
+Equatorial Guinea,0,Vented,Unconventional gas
+Iran,0,Incomplete-flare,Onshore conventional gas
+United Arab Emirates,0,Fugitive,Satellite-detected large emitters
+Cameroon,3.779999971,Fugitive,Offshore oil
+Japan,0,Incomplete-flare,Unconventional gas
+Saudi Arabia,58.42000049,Vented,Downstream gas
+ROETE,0.169999996,Fugitive,Downstream oil
+Congo,10.43999994,Fugitive,Offshore oil
+Uzbekistan,0,Incomplete-flare,Offshore gas
+Turkmenistan,181.5599931,Vented,Downstream gas
+Oman,0.01,Fugitive,Offshore oil
+Argentina,68.25999886,Vented,Downstream gas
+Brunei,0,Vented,Unconventional gas
+Bahrain,0,Vented,Unconventional gas
+Israel,12.4000001,Vented,Offshore gas
+Turkmenistan,4.299999952,Fugitive,Offshore gas
+Russia,0.02,Vented,Offshore gas
+Italy,4.279999992,Vented,Onshore conventional gas
+Uzbekistan,0.240000002,Vented,Downstream oil
+Netherlands,0.460000018,Vented,Downstream oil
+OEU7,0.069999998,Fugitive,Downstream oil
+Oman,52.38000107,Incomplete-flare,Onshore conventional oil
+Qatar,0,Vented,Onshore conventional gas
+Kazakhstan,4.540000141,Fugitive,Offshore oil
+Libya,0,Vented,Unconventional oil
+Iraq,0,Incomplete-flare,Offshore gas
+Tunisia,6.349999905,Incomplete-flare,Onshore conventional oil
+Philippines,0,Incomplete-flare,Onshore conventional gas
+Brazil,0,Fugitive,Satellite-detected large emitters
+Syria,0,Incomplete-flare,Onshore conventional gas
+Kuwait,0.870000016,Vented,Downstream oil
+Poland,0,Incomplete-flare,Unconventional gas
+Ivory Coast,0,Fugitive,Satellite-detected large emitters
+Azerbaijan,0,Incomplete-flare,Unconventional gas
+Saudi Arabia,82.7699995,Fugitive,Onshore conventional oil
+Vietnam,0,Incomplete-flare,Onshore conventional gas
+Iran,0,Vented,Unconventional gas
+Azerbaijan,0,Fugitive,Unconventional oil
+Poland,0.189999998,Incomplete-flare,Offshore oil
+Italy,0,Incomplete-flare,Unconventional gas
+Chad,0,Vented,Downstream gas
+Iraq,0.75,Fugitive,Downstream oil
+Ecuador,0,Fugitive,Offshore oil
+Cameroon,7.310000032,Vented,Offshore gas
+South Sudan,0,Fugitive,Onshore conventional gas
+Ukraine,1.37999998,Fugitive,Offshore gas
+Indonesia,0,Vented,Unconventional oil
+Cuba,0,Vented,Unconventional oil
+Tunisia,2.209999919,Fugitive,Offshore gas
+Chad,0,Fugitive,Satellite-detected large emitters
+New Zealand,0,Fugitive,Unconventional gas
+Romania,0,Incomplete-flare,Offshore gas
+Thailand,93.11999989,Fugitive,Downstream gas
+Bangladesh,0,Fugitive,Offshore gas
+United Arab Emirates,17.60999966,Fugitive,Offshore oil
+OEU7,0.960000005,Vented,Offshore gas
+France,23.14999983,Vented,Downstream gas
+Iran,1.430000022,Fugitive,Downstream oil
+Syria,0,Fugitive,Unconventional oil
+Japan,0.119999997,Vented,Offshore oil
+Italy,2.090000033,Fugitive,Offshore gas
+Venezuela,389.9099908,Vented,Onshore conventional gas
+Ukraine,0,Vented,Unconventional oil
+Gabon,22.29000092,Incomplete-flare,Onshore conventional oil
+Colombia,12.10999978,Fugitive,Onshore conventional gas
+Syria,0,Fugitive,Satellite-detected large emitters
+Thailand,3.079999909,Vented,Downstream oil
+OASEAN9,49.65000153,Fugitive,Downstream gas
+Saudi Arabia,0,Incomplete-flare,Offshore gas
+Algeria,16.40000006,Vented,Unconventional gas
+United Kingdom,0.069999998,Fugitive,Onshore conventional gas
+Turkmenistan,0,Fugitive,Unconventional gas
+United Arab Emirates,0,Incomplete-flare,Offshore gas
+Romania,0,Vented,Unconventional oil
+Philippines,0.169999996,Fugitive,Downstream oil
+Cuba,0.180000007,Incomplete-flare,Onshore conventional oil
+Azerbaijan,7.479999939,Vented,Onshore conventional oil
+Angola,0,Vented,Unconventional gas
+Malaysia,0.180000002,Fugitive,Onshore conventional oil
+Pakistan,51.26000166,Fugitive,Onshore conventional gas
+Algeria,0,Vented,Offshore oil
+OEU7,0,Vented,Offshore oil
+Trinidad,82.26000049,Vented,Offshore gas
+Denmark,0.189999996,Vented,Downstream oil
+Bolivia,10.16999999,Vented,Downstream gas
+Congo,12.18000013,Vented,Onshore conventional oil
+Congo,1.099999964,Fugitive,Onshore conventional oil
+Ukraine,0,Incomplete-flare,Offshore gas
+Iraq,0,Incomplete-flare,Offshore oil
+Pakistan,0,Vented,Unconventional oil
+OASEAN9,0,Incomplete-flare,Onshore conventional gas
+Nigeria,0,Vented,Unconventional gas
+Brazil,4.25,Fugitive,Onshore conventional oil
+Vietnam,1.049999952,Incomplete-flare,Onshore conventional oil
+Romania,19.33000064,Fugitive,Downstream gas
+Thailand,5.06999987,Vented,Onshore conventional gas
+China,165.8099976,Fugitive,Onshore conventional gas
+OEU7,0.430000003,Fugitive,Offshore gas
+OEU7,0,Incomplete-flare,Onshore conventional gas
+Yemen,0,Incomplete-flare,Offshore gas
+Ukraine,0.679999992,Vented,Downstream oil
+Kuwait,15.39999962,Incomplete-flare,Onshore conventional oil
+Angola,317.6700032,Vented,Offshore oil
+New Zealand,0,Incomplete-flare,Unconventional gas
+Philippines,0,Incomplete-flare,Offshore gas
+Israel,0,Vented,Unconventional gas
+Bangladesh,0,Fugitive,Unconventional gas
+Tunisia,4.959999923,Vented,Onshore conventional gas
+Sudan,0,Incomplete-flare,Offshore gas
+Indonesia,0,Fugitive,Satellite-detected large emitters
+Mozambique,0,Vented,Offshore oil
+Libya,0,Incomplete-flare,Unconventional oil
+Gabon,1.559999995,Vented,Onshore conventional gas
+Germany,0,Fugitive,Unconventional oil
+Poland,0,Vented,Unconventional oil
+Other,12.34000015,Incomplete-flare,Offshore oil
+Turkmenistan,0,Incomplete-flare,Onshore conventional gas
+Mexico,0.860000007,Fugitive,Unconventional gas
+Cameroon,0,Incomplete-flare,Onshore conventional gas
+Bangladesh,0,Incomplete-flare,Offshore gas
+South Sudan,0.069999998,Fugitive,Downstream oil
+Bahrain,0,Incomplete-flare,Unconventional oil
+Angola,0,Fugitive,Unconventional gas
+Iraq,0,Fugitive,Unconventional oil
+Kazakhstan,30.23999977,Fugitive,Onshore conventional oil
+Kuwait,0.200000003,Incomplete-flare,Offshore oil
+Bangladesh,0.069999998,Fugitive,Downstream oil
+Yemen,0,Vented,Unconventional oil
+Argentina,0.449999992,Fugitive,Offshore oil
+Peru,0.1,Fugitive,Offshore oil
+ROETE,0.970000014,Fugitive,Onshore conventional gas
+Japan,0.169999996,Fugitive,Offshore gas
+Peru,0,Incomplete-flare,Unconventional gas
+Bahrain,0,Fugitive,Offshore gas
+Peru,1.100000005,Vented,Offshore oil
+Norway,0.300000001,Fugitive,Downstream gas
+Australia,123.959998,Vented,Unconventional gas
+Indonesia,43.79999924,Incomplete-flare,Onshore conventional oil
+Ivory Coast,0,Fugitive,Onshore conventional oil
+Vietnam,0,Vented,Onshore conventional oil
+Russia,1822.129944,Fugitive,Downstream gas
+Pakistan,129.9899988,Fugitive,Downstream gas
+Russia,10.96999979,Vented,Downstream oil
+Turkmenistan,0.349999998,Fugitive,Downstream oil
+Iran,240.8899994,Fugitive,Onshore conventional gas
+South Sudan,0,Incomplete-flare,Onshore conventional gas
+Iraq,0,Vented,Unconventional gas
+Ivory Coast,0,Vented,Unconventional oil
+United States,31.19000053,Vented,Downstream oil
+Trinidad,0,Incomplete-flare,Onshore conventional gas
+New Zealand,2.620000035,Vented,Offshore oil
+Denmark,0,Incomplete-flare,Offshore gas
+Mozambique,0,Incomplete-flare,Unconventional gas
+Netherlands,0.01,Fugitive,Onshore conventional oil
+Cameroon,0,Fugitive,Satellite-detected large emitters
+Philippines,0,Fugitive,Onshore conventional gas
+Indonesia,2.719999939,Fugitive,Offshore oil
+Oman,260.3800052,Vented,Onshore conventional oil
+France,0,Incomplete-flare,Onshore conventional gas
+Norway,2.589999914,Incomplete-flare,Offshore oil
+Malaysia,0,Incomplete-flare,Unconventional gas
+Kuwait,68.99000016,Vented,Onshore conventional gas
+Canada,71.27000058,Vented,Downstream gas
+Argentina,5.650000155,Fugitive,Unconventional oil
+Argentina,80.07999903,Vented,Onshore conventional gas
+Angola,17.61999989,Fugitive,Onshore conventional gas
+Equatorial Guinea,0,Vented,Downstream oil
+Sudan,0,Vented,Unconventional gas
+South Sudan,0,Fugitive,Unconventional gas
+Netherlands,0,Fugitive,Unconventional oil
+Thailand,51.4499996,Vented,Downstream gas
+Sudan,0,Vented,Offshore oil
+Nigeria,0,Fugitive,Unconventional oil
+Australia,126.4099994,Vented,Offshore gas
+Indonesia,14.04000008,Fugitive,Onshore conventional oil
+Turkmenistan,328.6699982,Fugitive,Downstream gas
+Libya,79.89999771,Fugitive,Offshore gas
+Kazakhstan,8.109999835,Fugitive,Offshore gas
+Brunei,0.430000009,Vented,Onshore conventional gas
+Nigeria,177.620005,Vented,Onshore conventional gas
+Cuba,0,Fugitive,Unconventional gas
+Iraq,223.8099995,Fugitive,Onshore conventional oil
+Uzbekistan,373.3800015,Vented,Onshore conventional gas
+OEU7,0.570000008,Fugitive,Onshore conventional gas
+Thailand,0,Incomplete-flare,Offshore gas
+United States,799.9399953,Vented,Downstream gas
+Gabon,0.269999994,Fugitive,Offshore gas
+Bolivia,0,Incomplete-flare,Unconventional oil
+New Zealand,0.079999998,Fugitive,Onshore conventional oil
+Chad,4.640000105,Fugitive,Onshore conventional oil
+Kazakhstan,0,Fugitive,Unconventional oil
+Poland,0.740000002,Vented,Offshore oil
+Congo,0,Incomplete-flare,Unconventional oil
+Mexico,0.669999994,Fugitive,Downstream oil
+Romania,0.079999998,Fugitive,Downstream oil
+Italy,0.959999993,Fugitive,Onshore conventional oil
+Australia,0,Incomplete-flare,Onshore conventional gas
+Egypt,70.31000114,Vented,Offshore oil
+Sudan,0,Incomplete-flare,Offshore oil
+France,0,Incomplete-flare,Unconventional gas
+Netherlands,0,Incomplete-flare,Onshore conventional gas
+Yemen,0,Fugitive,Satellite-detected large emitters
+South Sudan,0,Vented,Onshore conventional gas
+Denmark,1.619999988,Vented,Downstream gas
+Yemen,83.04999924,Vented,Onshore conventional oil
+Nigeria,23.87999964,Fugitive,Offshore gas
+Saudi Arabia,29.6299994,Fugitive,Offshore gas
+Trinidad,0.630000018,Fugitive,Onshore conventional oil
+OEU7,2.719999988,Vented,Onshore conventional oil
+Chad,0,Incomplete-flare,Unconventional oil
+ROETE,0,Incomplete-flare,Unconventional oil
+Ukraine,0,Fugitive,Unconventional oil
+Ivory Coast,1.350000024,Incomplete-flare,Offshore oil
+Romania,0.140000001,Incomplete-flare,Onshore conventional oil
+Colombia,12.60000021,Vented,Downstream gas
+Israel,0,Incomplete-flare,Unconventional oil
+Malaysia,0,Incomplete-flare,Offshore gas
+Venezuela,209.119996,Vented,Downstream gas
+Gabon,0,Fugitive,Unconventional oil
+Cuba,4.029999971,Vented,Offshore oil
+Oman,0,Incomplete-flare,Unconventional gas
+Ecuador,0,Fugitive,Satellite-detected large emitters
+South Sudan,0,Vented,Unconventional gas
+Ukraine,2.089999914,Incomplete-flare,Onshore conventional oil
+Philippines,0,Vented,Onshore conventional oil
+Netherlands,0.180000002,Fugitive,Offshore gas
+Russia,4039.870041,Vented,Onshore conventional gas
+Gabon,0,Fugitive,Satellite-detected large emitters
+Argentina,132.8000007,Vented,Unconventional gas
+Gabon,0,Incomplete-flare,Unconventional gas
+Libya,53.86000061,Incomplete-flare,Onshore conventional oil
+Vietnam,4.029999942,Fugitive,Offshore oil
+Romania,0.07,Incomplete-flare,Offshore oil
+Peru,1.700000033,Fugitive,Onshore conventional oil
+Cuba,0.360000003,Fugitive,Offshore oil
+Congo,115.6599972,Vented,Offshore oil
+South Sudan,0,Vented,Downstream gas
+Bahrain,13.65,Vented,Downstream gas
+ROETE,0,Incomplete-flare,Offshore gas
+Colombia,0,Vented,Unconventional gas
+Netherlands,0.01,Fugitive,Offshore oil
+Gabon,3.450000018,Fugitive,Offshore oil
+Qatar,151.7200031,Fugitive,Offshore gas
+ROETE,0,Incomplete-flare,Offshore oil
+Thailand,0,Incomplete-flare,Unconventional gas
+Bangladesh,64.78999996,Fugitive,Onshore conventional gas
+Poland,2.459999992,Vented,Onshore conventional oil
+Other,48.42000008,Vented,Offshore oil
+France,0.039999999,Vented,Unconventional gas
+Romania,7.880000211,Vented,Onshore conventional oil
+Mexico,0,Incomplete-flare,Unconventional oil
+Turkmenistan,694.2099991,Fugitive,Onshore conventional gas
+Ivory Coast,0,Incomplete-flare,Unconventional gas
+Sudan,0,Vented,Offshore gas
+Tunisia,0.300000001,Fugitive,Offshore oil
+Cameroon,2.449999997,Vented,Onshore conventional gas
+Ukraine,0.01,Fugitive,Offshore oil
+Egypt,0,Vented,Unconventional oil
+Netherlands,0,Fugitive,Satellite-detected large emitters
+ROETE,56.21000051,Fugitive,Downstream gas
+Cuba,0.140000001,Incomplete-flare,Offshore oil
+Israel,0,Vented,Onshore conventional oil
+Bahrain,3.350000024,Fugitive,Onshore conventional oil
+Italy,0,Vented,Unconventional gas
+United Kingdom,0.069999998,Vented,Unconventional gas
+Norway,0,Vented,Unconventional gas
+Norway,18.22000003,Vented,Offshore oil
+Mexico,16.05000007,Fugitive,Offshore gas
+Sudan,0,Incomplete-flare,Unconventional oil
+Australia,13.1399999,Vented,Onshore conventional gas
+OEU7,0,Fugitive,Unconventional gas
+Syria,7.300000072,Fugitive,Onshore conventional oil
+Bangladesh,145.4599993,Vented,Onshore conventional gas
+Australia,0,Fugitive,Unconventional oil
+Sudan,4.520000041,Fugitive,Onshore conventional oil
+France,1.870000042,Vented,Downstream oil
+South Sudan,0,Incomplete-flare,Unconventional gas
+Ukraine,16.20000006,Vented,Onshore conventional oil
+Denmark,0.039999999,Fugitive,Downstream oil
+Cameroon,0,Fugitive,Onshore conventional oil
+Pakistan,0,Incomplete-flare,Offshore gas
+Poland,0.159999998,Fugitive,Downstream oil
+Argentina,0,Fugitive,Satellite-detected large emitters
+Azerbaijan,0,Incomplete-flare,Offshore gas
+Other,256.869997,Fugitive,Downstream gas
+Mexico,71.73999786,Incomplete-flare,Offshore oil
+Italy,1.849999942,Vented,Downstream oil
+France,0.02,Vented,Onshore conventional gas
+Equatorial Guinea,0,Incomplete-flare,Offshore gas
+United Arab Emirates,27.82000017,Fugitive,Onshore conventional oil
+Malaysia,96.05999828,Vented,Offshore oil
+Saudi Arabia,13.10999992,Vented,Unconventional gas
+Japan,0.109999999,Fugitive,Onshore conventional oil
+Other,0.370000007,Vented,Unconventional gas
+Romania,13.96000016,Fugitive,Onshore conventional gas
+Yemen,7.49000001,Fugitive,Onshore conventional oil
+Brunei,2.800000049,Vented,Downstream gas
+Equatorial Guinea,7.78000021,Incomplete-flare,Offshore oil
+Azerbaijan,62.66000034,Vented,Offshore gas
+Kazakhstan,209.0999947,Fugitive,Satellite-detected large emitters
+Algeria,0,Incomplete-flare,Onshore conventional gas
+OEU17,0,Fugitive,Satellite-detected large emitters
+United States,0,Incomplete-flare,Onshore conventional gas
+Qatar,0,Incomplete-flare,Unconventional oil
+Russia,387.9100037,Incomplete-flare,Onshore conventional oil
+Iran,925.9000062,Vented,Onshore conventional oil
+Saudi Arabia,27.22999954,Incomplete-flare,Onshore conventional oil
+OEU17,0.140000001,Incomplete-flare,Offshore oil
+Philippines,0,Fugitive,Unconventional gas
+Australia,1.330000006,Vented,Downstream oil
+Cuba,0,Incomplete-flare,Unconventional gas
+Gabon,0.110000003,Vented,Downstream oil
+Russia,28.94000053,Incomplete-flare,Offshore oil
+Algeria,0,Vented,Offshore gas
+Philippines,5.139999926,Vented,Offshore oil
+Pakistan,0,Incomplete-flare,Offshore oil
+Saudi Arabia,27.7099998,Fugitive,Offshore oil
+Saudi Arabia,13.30000019,Incomplete-flare,Offshore oil
+Other,0.169999996,Fugitive,Unconventional gas
+Iraq,109.590002,Vented,Onshore conventional gas
+Kuwait,25.33000004,Vented,Downstream gas
+Nigeria,1.710000053,Vented,Downstream oil
+Netherlands,1.280000016,Vented,Downstream gas
+Colombia,0.609999988,Vented,Downstream oil
+Ukraine,0,Incomplete-flare,Offshore oil
+Ecuador,14.82999992,Fugitive,Onshore conventional oil
+United Kingdom,1.010000028,Vented,Downstream oil
+Bangladesh,0,Incomplete-flare,Onshore conventional gas
+Norway,0,Fugitive,Unconventional gas
+Romania,0,Incomplete-flare,Unconventional oil
+Algeria,0,Fugitive,Unconventional oil
+Canada,7.949999988,Fugitive,Unconventional oil
+Angola,1.470000029,Incomplete-flare,Onshore conventional oil
+Vietnam,0,Fugitive,Satellite-detected large emitters
+Ukraine,1.459999993,Fugitive,Onshore conventional oil
+Angola,3.979999989,Fugitive,Downstream gas
+Thailand,0,Vented,Unconventional gas
+Venezuela,378.5500031,Fugitive,Downstream gas
+Saudi Arabia,0,Fugitive,Satellite-detected large emitters
+OEU17,0,Incomplete-flare,Unconventional oil
+Norway,0.119999997,Vented,Onshore conventional oil
+Egypt,0.469999995,Fugitive,Downstream oil
+Equatorial Guinea,0,Incomplete-flare,Unconventional gas
+Argentina,8.939999938,Fugitive,Offshore gas
+Iran,1088.940002,Fugitive,Downstream gas
+Yemen,0,Fugitive,Offshore oil
+Equatorial Guinea,42.10000039,Vented,Offshore gas
+Colombia,0.1,Fugitive,Downstream oil
+Indonesia,0,Incomplete-flare,Unconventional gas
+Uzbekistan,111.3499982,Vented,Downstream gas
+Russia,0,Fugitive,Unconventional oil
+Libya,0,Fugitive,Unconventional oil
+Other,52.5699993,Vented,Onshore conventional oil
+Netherlands,2.050000021,Vented,Onshore conventional gas
+Denmark,0,Fugitive,Unconventional gas
+Mozambique,12.85000014,Fugitive,Onshore conventional gas
+Argentina,1.62000002,Vented,Downstream oil
+Saudi Arabia,0,Fugitive,Unconventional oil
+OEU7,7.820000112,Fugitive,Downstream gas
+Denmark,2.919999987,Fugitive,Downstream gas
+Equatorial Guinea,0,Fugitive,Unconventional oil
+Poland,0.419999987,Incomplete-flare,Onshore conventional oil
+Chad,0,Incomplete-flare,Offshore oil
+Iraq,58.99999961,Vented,Downstream gas
+Azerbaijan,0,Vented,Unconventional oil
